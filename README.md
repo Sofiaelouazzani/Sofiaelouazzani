@@ -58,7 +58,7 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 
 
 ## 📈 **GitHub Stats**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiaelouazzani&layout=compact&theme=radical)  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sofiaelouazzani&theme=jolly" width="300">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiaelouazzani&layout=compact&theme=radical)  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sofiaelouazzani&theme=jolly">
 
 ---
 
