@@ -56,7 +56,6 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ## 📈 **GitHub Stats**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiaelouazzani&layout=compact&theme=radical)  
@@ -64,3 +63,5 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 ---
 
 Feel free to explore my repositories, and let’s collaborate on building something amazing! 🚀 
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
