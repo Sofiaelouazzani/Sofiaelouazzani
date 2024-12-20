@@ -45,12 +45,11 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 ## 🔗 **Connect with Me**  
 - 🌐 [LinkedIn](https://www.linkedin.com)  
 - 📝 [Portfolio](https://yourportfolio.com)  
-- ✉️ [Email Me](mailto:your.email@example.com)  
+- ✉️ [Email Me](mailto:elouazzani.aac@gmail.com)  
 
 ---
 
 ## 📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sofiaelouazzani&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiaelouazzani&layout=compact&theme=radical)  
 
 ---
