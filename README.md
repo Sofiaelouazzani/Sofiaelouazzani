@@ -61,7 +61,6 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiaelouazzani&layout=compact&theme=radical)  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiaelouazzani&" alt="sofiaelouazzani" /></p>
 
-
 ---
 
 Feel free to explore my repositories, and let’s collaborate on building something amazing! 🚀 
