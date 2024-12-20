@@ -63,5 +63,5 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 ---
 
 Feel free to explore my repositories, and let’s collaborate on building something amazing! 🚀 
-
-![snake gif](https://github.com/Sofiaelouazzani/Sofiaelouazzani/blob/output/github-contribution-grid-snake.gif)
+<!-- platane/snk works, it just puts it on a new branch -->
+![Sofiaelouazzani snake gif](https://github.com/Sofiaelouazzani/Sofiaelouazzani/blob/output/github-snake.svg)
