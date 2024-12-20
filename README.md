@@ -22,6 +22,8 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sofiaelouazzani" alt="sofiaelouazzani" /></a> </p>
+
 ## 💻 **Skills**  
 - **Languages**: Python, C++, Java, JavaScript, HTML, CSS  
 - **Frameworks & Tools**: Flask, Firebase, OpenCV, Quartus II, Xcode  
