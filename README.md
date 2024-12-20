@@ -50,8 +50,8 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 ---
 
 ## 📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sofiaelouazzani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiaelouazzani&layout=compact&theme=radical)  
 
 ---
 
