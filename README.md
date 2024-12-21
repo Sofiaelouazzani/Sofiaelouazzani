@@ -13,8 +13,7 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 ## 🚀 **About Me**  
 - 🔭 I’m currently working on:  
   - Building intelligent systems, like **custom PC ordering Android apps**.  
-  - Advancing in **image encryption and steganography** with cutting-edge tools.  
-  - Exploring **gender and age prediction** using deep learning.  
+  - Advancing in **My Arduino Projects** with cutting-edge tools.   
 - 🌱 Always learning and growing in:  
   - **Cybersecurity** to protect the digital world.  
   - **AI and Embedded Systems** for real-world innovations.  
@@ -45,7 +44,11 @@ Welcome to my corner of GitHub, where **technology**, **creativity**, and **inno
 
 ### 🎭 **Gender and Age Prediction Web App**  
 - A Flask-powered web app leveraging **deep learning** for real-time face detection and demographic predictions.  
-- Enhanced user experience with simple yet effective UI design.  
+- Enhanced user experience with simple yet effective UI design.
+
+### 🤖 **Arduino Motion Sensor and IoT Projects**  
+- Developed an Arduino-based **motion sensor** coded in **C++**, focusing on real-time motion detection and responsive systems.  
+- Currently exploring additional Arduino projects this holiday season, delving deeper into **IoT** and **embedded systems** development.  
 
 ---
 
